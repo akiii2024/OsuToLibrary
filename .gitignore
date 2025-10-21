@@ -17,3 +17,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# PyInstaller関連
+build/
+dist/
+*.spec
+*.egg-info/
+
+# その他のビルドファイル
+*.log
